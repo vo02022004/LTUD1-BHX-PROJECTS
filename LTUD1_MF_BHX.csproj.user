@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormDanhSachMau\BT16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMainFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenuDetail\FormChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenuDetail\FormChiTietKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenuDetail\FormChiTietNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\HeThong\FormCaiDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\HeThong\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormDiaDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\In\FormBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\Nhap\FormSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\In\FormThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScreenMenu\TraCuu\FormTraCuuSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="frmMainFrame.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
